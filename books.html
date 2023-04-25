@@ -13,7 +13,7 @@
 <script src="jquery-3.1.0.min.js"></script>
 <script>
 $(document).ready(function() {
-   $.getJSON('https://juidasci.github.io/books.json', function(data) {
+   $.getJSON('books.json', function(data) {
       var html = '<ul>';
       $.each(data, function(key, val) {
          html += '<li id="' + key + '">' + val.id + ':' + val.title + '</li>';
