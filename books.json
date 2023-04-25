@@ -1,0 +1,30 @@
+﻿[
+    {
+    "title": "book1", 
+    "author": "author1",
+    "category": "Web",
+    "pubdate": "06/2015",
+    "id": "W101"
+    },
+    {
+    "title": "book2", 
+    "author": "author2",
+    "category": "Web",
+    "pubdate": "07/2015",
+    "id": "W102"
+    },
+    {
+    "title": "book3", 
+    "author": "author3",
+    "category": "Programming",
+    "pubdate": "11/2015",
+    "id": "P102"
+    },
+    {
+    "title": "book4", 
+    "author": "author4",
+    "category": "Mobile",
+    "pubdate": "07/2015",
+    "id": "M102"
+    }
+]
